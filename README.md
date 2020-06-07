@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project!
+# CDK TypeScript project with AWS lambda and API Gateway
 
 This is a blank project for TypeScript development with CDK.
 
